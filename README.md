@@ -8,7 +8,7 @@ I'm Jason, just an ambitious programmer who looks to hone his skills single ever
 > Markup languages: <i>HTML/CSS - Markdown </i><br/>
 
 #### I'm familiar with:
-<i> Javascript - php </i><br/>
+> <i> Javascript - php </i><br/>
 
 For more info visit my website: [starlug.com](starlug.com)
 
