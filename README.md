@@ -1,5 +1,14 @@
 ### Hi there 👋
+I'm Jason, just an ambitious programmer who looks to hone his skills single everyday.
 
+#### I'm proficient with:
+> Programming languages : Java - c# , Frameworks: Android
+> Version control system: git - github
+> Project management: maven
+> Markup languages: HTML/CSS - Markdown
+
+#### I'm familiar with:
+> Javascript - php
 <!--
 **yassin97/yassin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
