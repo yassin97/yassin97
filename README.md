@@ -2,9 +2,10 @@
 I'm Jason, just an ambitious programmer who looks to hone his skills single everyday.
 
 #### I'm proficient with:
-> Programming languages :<i> Java - c# , Frameworks: Android </i><br/>
+> Programming languages:<i> Java - c# - php - javascript - css/sass</i><br/>
+> Scripting language:<i> bash</i><br/>
+> Programming frameworks:<i> vuejs - android/java</i><br/>
 > Version control system: <i>git - github </i><br/>
-> Project management: <i>maven </i><br/>
 > Markup languages: <i>HTML/CSS - Markdown </i><br/>
 
 #### I'm familiar with:
