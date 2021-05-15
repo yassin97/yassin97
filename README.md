@@ -3,6 +3,7 @@ I'm Jason, just an ambitious programmer who looks to hone his skills single ever
 
 #### I'm proficient with:
 > Programming languages:<i> Java - c# - php - javascript - css/sass</i><br/>
+> Database management system: mysql - ms sql
 > Programming frameworks:<i> android/java</i><br/>
 > Version control system: <i>git - github </i><br/>
 
