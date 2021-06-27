@@ -8,7 +8,7 @@ I'm Jason, just an ambitious programmer who looks to hone his skills single ever
 > Version control system: <i>git - github </i><br/>
 
 #### I'm familiar with:
-> <i> vuejs - bash </i><br/>
+> <i> vuejs - laravel - bash </i><br/>
 
 For more info visit my website: [starlug.com](starlug.com)
 
