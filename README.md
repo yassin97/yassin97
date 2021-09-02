@@ -11,7 +11,7 @@
 <p align="center"> :octocat: <b><a href="https://www.starlug.com">Website</a> / <a href="https://www.starlug.com/#resume">Resume</a> / <a href="https://www.starlug.com/#my-works">Projects</a></b> :octocat: </p>
 
 
- Hey there! :smile: My name is Yassin. I'm a 24-year-old web developer and blogger from Morocco. I'm open to contribute to projects and looking forward to knowing people to collaborate with! I love creating new stuff and tinkering with small, static websites using frameworks like Lravel and VueJS which I happen to like and spend lots of time hacking around with. In shorts, I'm just a person who is ambitious and trying to get better everyday.
+ Hey there! :smile: My name is Yassin. I'm a 24-year-old web developer and blogger from Morocco. I'm open to contribute to projects and looking forward to knowing people to collaborate with! I love creating new stuff and tinkering with small, static websites using frameworks like Laravel and VueJS which I happen to like and spend lots of time hacking around with. In shorts, I'm just a person who is ambitious and trying to get better everyday.
 
 I'm always looking to work with people that are ambitious and motivated like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:yotman.97@gmail.com) if that sounds like your cup of tea. :coffee:
 
